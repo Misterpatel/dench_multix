@@ -1,0 +1,98 @@
+[24-Mar-2025 02:04:26 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 02:04:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:27:56 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:27:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:27:57 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:27:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:28:00 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:28:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:30:39 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:30:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:30:45 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:30:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:30:45 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:30:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:32:12 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:32:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:33:41 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:33:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:33:44 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:33:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:33:47 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:33:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:34:30 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:34:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:34:34 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 05:34:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 06:14:55 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 06:14:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 06:14:57 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 06:14:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 06:16:02 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 06:16:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 06:16:04 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 06:16:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 06:16:19 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 06:16:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 06:16:21 UTC] PHP Warning:  require_once(/home/crazyhoo/agitss.in/aspire/public/index.php): Failed to open stream: No such file or directory in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 06:16:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/crazyhoo/agitss.in/aspire/public/index.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/crazyhoo/agitss.in/aspire/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/crazyhoo/agitss.in/aspire/index.php on line 21
+[24-Mar-2025 13:10:10 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Backend\SettingController::updateNewsletter() in /home/crazyhoo/agitss.in/aspire/app/Http/Controllers/Backend/SettingController.php on line 195
+[26-Mar-2025 07:50:17 UTC] PHP Parse error:  syntax error, unexpected token "use" in /home/crazyhoo/app.denchinfotech.in/aspire/app/helper/custom_helper.php on line 14
+[01-Apr-2025 06:38:25 UTC] PHP Fatal error:  Cannot use App\Models\Default_home_pages as Default_home_pages because the name is already in use in /home/crazyhoo/app.denchinfotech.in/denchmultix/app/Http/Controllers/Backend/DefaultHomeController.php on line 7
