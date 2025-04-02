@@ -10,7 +10,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="{{!empty($meta) ? $meta->meta_title : ''}}" />
 <meta property="og:description" content="{{!empty($meta) ? $meta->meta_description : ''}}" />
-<meta property="og:image" content="{{asset($banner)}}" />
+<meta property="og:image" content="{{asset($banner ?? '')}}" />
 <meta property="og:site_name" content="Bizsetu" />
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
